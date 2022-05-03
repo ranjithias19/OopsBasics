@@ -10,7 +10,7 @@ public class CustomExcept {
             System.out.print("good to vote\n");
         }
     }
-    public static void main(String args[]){
+    public static void main(String[] args){
         CustomExcept c=new CustomExcept();
         try{
             c.validate(15);

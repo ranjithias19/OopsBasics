@@ -1,7 +1,7 @@
 package com.pack8;
 
 
-public class ActualClass extends Aabstract{
+public class ActualClass extends Abstract {
     static int intVariable=5;
     static final double doubleVariable=5.55;
     @Override

@@ -1,6 +1,6 @@
 package com.pack8;
 
-abstract public class Aabstract {
+abstract public class Abstract {
     static String getHello(){
         return "abstract string impl";
     }

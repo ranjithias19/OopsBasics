@@ -10,7 +10,7 @@ public class OperatorOverload {
         System.out.println("add two integers:: " + (var1+var2));
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         OperatorOverload obj = new OperatorOverload();
         obj.add(5,7);
         obj.add("Hello","Ranjith");

@@ -1,7 +1,7 @@
 package com.pack7;
 
 public interface B {
-    public void test();
+     void test();
     /* public void  anotherTest(){
 
     }

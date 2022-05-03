@@ -9,7 +9,7 @@ public class MethodOverloadByTypeofParams {
         System.out.println("print with int param= " + var);
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         MethodOverloadByTypeofParams obj = new MethodOverloadByTypeofParams();
         obj.print(5);
         obj.print("Hello");
